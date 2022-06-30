@@ -2,6 +2,7 @@
 using byteBank_ADM.Utilitario;
 
 Console.WriteLine("----------Boas vindas ao ByteBank ADM----------");
+Console.WriteLine("***********************************************");
 
 
 
