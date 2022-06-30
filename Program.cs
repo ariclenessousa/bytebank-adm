@@ -1,8 +1,8 @@
 ﻿using byteBank_ADM.Funcionarios;
 using byteBank_ADM.Utilitario;
 
-Console.WriteLine("----------Boas vindas ao ByteBank Administracao----------");
-Console.WriteLine("*********************************************************");
+Console.WriteLine("----------Boas vindas ao ByteBank ADM----------");
+
 
 
 GerenciadorDeBonificacao gerenciador = new GerenciadorDeBonificacao();
