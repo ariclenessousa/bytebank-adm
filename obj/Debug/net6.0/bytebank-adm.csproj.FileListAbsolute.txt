@@ -1,0 +1,15 @@
+C:\Users\aricl\Documents\Projetos\ProjetosCursoCSharp\bytebank_ADM\bytebank-adm\bin\Debug\net6.0\bytebank-adm.exe
+C:\Users\aricl\Documents\Projetos\ProjetosCursoCSharp\bytebank_ADM\bytebank-adm\bin\Debug\net6.0\bytebank-adm.deps.json
+C:\Users\aricl\Documents\Projetos\ProjetosCursoCSharp\bytebank_ADM\bytebank-adm\bin\Debug\net6.0\bytebank-adm.runtimeconfig.json
+C:\Users\aricl\Documents\Projetos\ProjetosCursoCSharp\bytebank_ADM\bytebank-adm\bin\Debug\net6.0\bytebank-adm.dll
+C:\Users\aricl\Documents\Projetos\ProjetosCursoCSharp\bytebank_ADM\bytebank-adm\bin\Debug\net6.0\bytebank-adm.pdb
+C:\Users\aricl\Documents\Projetos\ProjetosCursoCSharp\bytebank_ADM\bytebank-adm\obj\Debug\net6.0\bytebank-adm.csproj.AssemblyReference.cache
+C:\Users\aricl\Documents\Projetos\ProjetosCursoCSharp\bytebank_ADM\bytebank-adm\obj\Debug\net6.0\bytebank-adm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aricl\Documents\Projetos\ProjetosCursoCSharp\bytebank_ADM\bytebank-adm\obj\Debug\net6.0\bytebank-adm.AssemblyInfoInputs.cache
+C:\Users\aricl\Documents\Projetos\ProjetosCursoCSharp\bytebank_ADM\bytebank-adm\obj\Debug\net6.0\bytebank-adm.AssemblyInfo.cs
+C:\Users\aricl\Documents\Projetos\ProjetosCursoCSharp\bytebank_ADM\bytebank-adm\obj\Debug\net6.0\bytebank-adm.csproj.CoreCompileInputs.cache
+C:\Users\aricl\Documents\Projetos\ProjetosCursoCSharp\bytebank_ADM\bytebank-adm\obj\Debug\net6.0\bytebank-adm.dll
+C:\Users\aricl\Documents\Projetos\ProjetosCursoCSharp\bytebank_ADM\bytebank-adm\obj\Debug\net6.0\refint\bytebank-adm.dll
+C:\Users\aricl\Documents\Projetos\ProjetosCursoCSharp\bytebank_ADM\bytebank-adm\obj\Debug\net6.0\bytebank-adm.pdb
+C:\Users\aricl\Documents\Projetos\ProjetosCursoCSharp\bytebank_ADM\bytebank-adm\obj\Debug\net6.0\bytebank-adm.genruntimeconfig.cache
+C:\Users\aricl\Documents\Projetos\ProjetosCursoCSharp\bytebank_ADM\bytebank-adm\obj\Debug\net6.0\ref\bytebank-adm.dll
